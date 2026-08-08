@@ -1,9 +1,13 @@
-## Estructura inicial
+## Estructura prueba inicial
+Hola
+
 
 ## Titulo 1
 
 - Hola
 - Esto
+- Nueva linea
+- Conflicccto
 - Es
 - Una
 - Prueba

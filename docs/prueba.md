@@ -4,6 +4,8 @@
 
 - Hola
 - Esto
+- Nueva linea
+- Conflicto
 - Es
 - Una
 - Prueba
